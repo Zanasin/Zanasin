@@ -13,6 +13,10 @@ learning and full-stack web projects.
 - **[real-or-rendered](https://github.com/Zanasin/real-or-rendered)**: robust
   detection of AI-generated images across unseen generators and image
   degradation. Python, deep learning.
+- **[BinSync](https://github.com/rawadhossain/Smart-Waste-Management-System)**
+  (team project): smart waste management with IoT-enabled bins, fill-level
+  monitoring, collection route optimization and a public bin map. ASP.NET
+  Core MVC, SQL Server, ESP sensor firmware.
 - **[UniSpace](https://github.com/Monajir/UniSpace_Web_Archi)** (team
   project): university room-booking platform with classroom bookings, faculty
   approval, schedules and notifications. React, Spring Boot, PostgreSQL,
@@ -27,6 +31,7 @@ learning and full-stack web projects.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
 
 ### My Linux setup
